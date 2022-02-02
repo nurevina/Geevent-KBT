@@ -27,4 +27,5 @@ Kewirausahaan berbasis Teknologi
 "Geevent"
 
 Syaifuddin, S.Kom., M.Kom
+
 Universitas Muhammadiyah Malang
