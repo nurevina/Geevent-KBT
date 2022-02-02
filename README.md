@@ -25,7 +25,7 @@ Adapun tujuan dari Geevent yakni sebagai berikut:
 Copyright(c) 2022 
 
 - Kewirausahaan berbasis Teknologi
-"Geevent"
+\n"Geevent"
 - Nur Evina Maknun (202010370311224)
 - Clarissa Sanindita R (202010370311232)
 - Cheria Rindang Tri A (202010370311236)
