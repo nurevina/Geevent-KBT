@@ -29,7 +29,7 @@ Kewirausahaan berbasis Teknologi
 - Nur Evina Maknun (202010370311224)
 - Clarissa Sanindita R (202010370311232)
 - Cheria Rindang Tri A (202010370311236)
-- 
+
 Syaifuddin, S.Kom., M.Kom
 
 Universitas Muhammadiyah Malang
